@@ -12,7 +12,7 @@ public class vehiculo {                  //Declaro la clase publica vehiculo
 
     System.out.println("Ingrese el modelo del vehiculo:"); //Imprime el mensaje para que el usuario ingrese el modelo del vehiculo
     modelo = scan.nextLine(); //El scanner recibe los datos introducidos por el usuario, guarda el valor en la variable modelo
-https://github.com/Scaques/talleraplicacionesmoviles/blob/main/vehiculo.java#L10C49
+
     System.out.println("Ingrese el tipo de combustible del vehiculo:"); //Imprime el mensaje para que el usuario ingrese el tipo de combustible del vehiculo
     combustible = scan.nextLine(); //El scanner recibe los datos introducidos por el usuario, guarda el valor en la variable combustible
  
