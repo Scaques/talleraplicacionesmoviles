@@ -2,7 +2,7 @@ import java.util.Scanner;                //Importo la clase Scanner desde el paq
 
 public class vehiculo {                  //Declaro la clase publica vehiculo
 
-    public static void main(String[] args) {  //Metodo principal con el codigo a correr
+    public static void main(String arg[]) {  //Metodo principal con el codigo a correr
     Scanner scan = new Scanner(System.in);    //Creacion de objetos de las clases scanner, string e integer
     String marca, modelo, combustible;
     int cilindrada, capacidad;
