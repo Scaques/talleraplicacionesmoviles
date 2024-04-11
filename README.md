@@ -17,5 +17,5 @@ Historias de Usuario
 
 - Como usuario, quiero poder ingresar los datos de un vehiculo en el sistema.
 - Como usuario, quiero que el programa sea facil de usar
-- Como usuario, uiero poder ver los datos que ingresé al sistema
+- Como usuario, quiero poder ver los datos que ingresé al sistema
 - Como administrador del sistema, quiero poder editar y mantener facilmente el programa-
